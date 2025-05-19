@@ -24,8 +24,8 @@ F' R' F D R D' R' F' R' F //All but 4 Corners (3 + 1 twisted) (10/26)
 
 Skeleton: L' F' R' F D R D' R' F' R' * F' R F' R2 F R2 L' U2 L + F' U' F' D L F' R'
 
-* = R B L' B' R' B L B' (6)
+\* = R B L' B' R' B L B' (6)
 
-+ = L D R' D' L' D R D' (7)
+\+ = L D R' D' L' D R D' (7)
 
 Solution: L' F' R' F D R D' R' F' B L' B' R' B L B' F' R F' R2 F R2 L' U2 L2 D R' D' L' D R D' F' U' F' D L F' R' (39)
